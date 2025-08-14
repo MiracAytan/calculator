@@ -1,4 +1,4 @@
-import math
+import math     #Math library
 from operations.addition import add
 from operations.subtraction import sub
 from operations.multiplication import multi     #Import functions from other dile
